@@ -18,3 +18,9 @@
 rake project:setup
 ```
 
+## To Do
+1. Image Upload 
+2. Autocompletion
+
+## Issues
+1. Multiselect not working properly on Edit action. 
